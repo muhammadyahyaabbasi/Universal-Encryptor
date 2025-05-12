@@ -102,9 +102,7 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 
 ## Author
 
-[Your Name / GitHub Username]
+Muhammad Yayha
 
-## Acknowledgements
 
-* Thank you to the developers of Java and JavaFX.
-* Potentially mention any external libraries or resources you found helpful.
+
